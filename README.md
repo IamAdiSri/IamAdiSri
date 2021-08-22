@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Currently wrapping up my BTech in Computer Science and MS by research in Computational Linguistics at [IIIT Hyderabad](https://iiit.ac.in). I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
+Currently wrapping up my BTech in Computer Science and MS by research in Computational Linguistics at [IIIT Hyderabad](https://iiit.ac.in), where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
 Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
