@@ -2,13 +2,13 @@
 
 Currently wrapping up my BTech in Computer Science and MS by research in Computational Linguistics at [IIIT Hyderabad](https://iiit.ac.in). I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
-Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and creative pursuits in music making.
+Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
 ## 💁‍♂️ How to Pronounce My Name
 
 My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to and 'ya' as in <ins>yu</ins>m. 
 
-[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for fellow linguists: __\[ˈɑd̪it̪ˌjə\]__
+[IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for fellow linguists: __\[ˈɑd̪it̪ˌjə\]__ 🤓
 
 ## 👨‍💻 What I've Been Up To Recently
 
