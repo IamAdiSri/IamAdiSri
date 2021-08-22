@@ -32,6 +32,7 @@ You could also just create an issue on this document I guess. 🤔
 - [Resume](https://github.com/IamAdiSri/IamAdiSri/raw/main/assets/Aditya%20Srivastava.pdf)<br>
 - [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-12810a108/)<br>
 - [Twitter](https://www.twitter.com/IamAdiSri)
+- [Email](mailto:aditya.srivastava@research.iiit.ac.in)
 
 <!--
 **IamAdiSri/IamAdiSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
