@@ -29,7 +29,7 @@ You could also just create an issue on this document I guess. 🤔
 
 ## 🔗 Links
 
-- [Resume](./assets/Aditya%20Srivastava.pdf)<br>
+- [Resume](https://github.com/IamAdiSri/IamAdiSri/raw/main/assets/Aditya%20Srivastava.pdf)<br>
 - [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-12810a108/)<br>
 - [Twitter](https://www.twitter.com/IamAdiSri)
 
