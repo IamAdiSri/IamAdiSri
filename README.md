@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Currently wrapping up my BTech in Computer Science and MS by research in Computational Linguistics at [IIIT Hyderabad](https://iiit.ac.in), where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
+Currently a Member of Technical Staff at [SentiSum](https://www.sentisum.com/), engineering NLP and ML solutions. Also in the process of wrapping up my BTech in Computer Science and MS by research in Computational Linguistics at [IIIT Hyderabad](https://iiit.ac.in), where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
 Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
@@ -12,9 +12,10 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
+- Joined SentiSum as an NLP and ML engineer. 💼
 - Finished writing my master's thesis (still under review). 🎉
 - Made the [lori](https://iamadisri.github.io/lori/) website as a joke(?).
-- Submitted a paper to EMNLP 2021 (under anonymity period).
+- Authored and submitted a research paper to a conference (under anonymity period).
 - Worked on a platform for AI for medicine in collaboration with Intel Labs.
 - Reviewed 2 papers for the SemEval Workshop 2020 @ COLING 2020.
 - Ranked within the top 5 percentile in Task 9 Sentimix at SemEval 2020. Submitted and had paper accepted at the SemEval Workshop 2020 @ COLING 2020.
