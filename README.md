@@ -18,7 +18,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 - Authored and submitted a research paper to a conference (under anonymity period).
 - Worked on a platform for AI for medicine in collaboration with Intel Labs.
 - Reviewed 2 papers for the SemEval Workshop 2020 @ COLING 2020.
-- Ranked within the top 5 percentile in Task 9 Sentimix at SemEval 2020. Published the [research paper](https://arxiv.org/abs/2007.12076) at the SemEval Workshop 2020 @ COLING 2020.
+- Ranked within the top 10 percentile in Task 9 Sentimix at SemEval 2020. Published the [research paper](https://arxiv.org/abs/2007.12076) at the SemEval Workshop 2020 @ COLING 2020.
 - Secured rank 8 worldwide in the Labor challenge @ AIcrowd.
 - Secured rank 11 worldwide in the SCRBL challenge @ AIcrowd.
 
