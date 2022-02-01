@@ -24,9 +24,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 💬 How to Reach Me
 
-Feel free to message me on Twitter or LinkedIn (links below). 
-
-You could also just create an issue on this document I guess. 🤔
+Feel free to message me on Twitter or LinkedIn (links below), or create an issue on this document.
 
 ## 🔗 Links
 
