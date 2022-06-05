@@ -12,10 +12,10 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
-- Participated in and achieved rank 1 on our task at the SemEval Workshop 2022 (February 2022).
+- Succefully defended my Master's Thesis on _Neural Methods for Code-Mixed NLP in Low Resource Conditions_. 🎉
+- Participated in and achieved rank 1 on our task at the SemEval Workshop 2022 (February 2022). 🏆
 - Shortlisted to attend Google Research Week (February 2022).
 - Joined SentiSum as an NLP and ML engineer. 💼
-- Finished writing my master's thesis (still under review). 🎉
 - Made the [lori](https://iamadisri.github.io/lori/) website as a joke(?).
 - Authored and submitted a research paper to a conference (under anonymity period).
 - Worked on a platform for AI for medicine in collaboration with Intel Labs.
@@ -23,7 +23,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 - Secured rank 8 worldwide in the Labor challenge @ AIcrowd.
 - Secured rank 11 worldwide in the SCRBL challenge @ AIcrowd.
 
-## 💬 How to Reach Me
+## 💬 Ways to Reach Me
 
 Feel free to message me on Twitter or LinkedIn (links below), or create an issue on this document.
 
