@@ -12,8 +12,10 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
-- Succefully defended my Master's Thesis on _Neural Methods for Code-Mixed NLP in Low Resource Conditions_. 🎉
-- Participated in and achieved rank 1 on our task at the SemEval Workshop 2022 (February 2022). 🏆
+- Released the [hf-trim](https://github.com/IamAdiSri/hf-trim) Python package. (July 2022)
+- Graduated with a _**BTech (Honors) in Computer Science and an MS (by Research) in Computational Linguistics**_ from _**IIIT Hyderabad**_. 🎉 (July 2022)
+- Published _[TLDR: Transformers for Learning Dictionaries and their Representations](https://aclanthology.org/2022.semeval-1.6/)_ at SemEval Workshop 2022 (July 2022). The system achieved rank 1 on one of the subtasks task. 🏆 (July 2022)
+- Succefully defended my Master's Thesis on _Neural Methods for Code-Mixed NLP in Low Resource Conditions_. (May 2022)
 - Shortlisted to attend Google Research Week (February 2022).
 - Joined SentiSum as an NLP and ML engineer. 💼
 - Made the [lori](https://iamadisri.github.io/lori/) website as a joke(?).
@@ -30,7 +32,7 @@ Feel free to message me on Twitter or LinkedIn (links below), or create an issue
 ## 🔗 Links
 
 - [CV](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/CV%20Aditya_Srivastava%20(BT%20MS%20CGPA).pdf)
-- [Resume](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/Aditya_Srivastava%20(BT%20MS%20CGPA).pdf)<br>
+- [Resume](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/Aditya_Srivastava%20(Resume).pdf)<br>
 - [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-12810a108/)<br>
 - [Twitter](https://www.twitter.com/IamAdiSri)
 - [Email](mailto:aditya.srivastava@research.iiit.ac.in)
