@@ -31,8 +31,8 @@ Feel free to message me on Twitter or LinkedIn (links below), or create an issue
 
 ## 🔗 Links
 
-- [CV](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/CV%20Aditya_Srivastava%20(BT%20MS%20CGPA).pdf)
-- [Resume](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/Resume_1P.pdf)<br>
+- [CV](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/CV.pdf)
+- [Resume](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/Resume.pdf)<br>
 - [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-12810a108/)<br>
 - [Twitter](https://www.twitter.com/IamAdiSri)
 - [Email](mailto:aditya.srivastava@research.iiit.ac.in)
