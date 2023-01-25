@@ -15,7 +15,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 - Released the [hf-trim](https://github.com/IamAdiSri/hf-trim) Python package. (July 2022)
 - Graduated with a _**BTech (Honors) in Computer Science and an MS (by Research) in Computational Linguistics**_ from _**IIIT Hyderabad**_. 🎉 (July 2022)
 - Published _[TLDR: Transformers for Learning Dictionaries and their Representations](https://aclanthology.org/2022.semeval-1.6/)_ at SemEval Workshop 2022 (July 2022). The system achieved rank 1 on the definition modeling subtask. 🏆 (July 2022)
-- Succefully defended my Master's Thesis on _Neural Methods for Code-Mixed NLP in Low Resource Conditions_. (May 2022)
+- Successfully defended my Master's Thesis on _Neural Methods for Code-Mixed NLP in Low Resource Conditions_. (May 2022)
 - Shortlisted to attend Google Research Week (February 2022).
 - Joined SentiSum as an NLP and ML engineer. 💼
 - Made the [lori](https://iamadisri.github.io/lori/) website as a joke(?).
