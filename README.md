@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Incoming graduate student at [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science, and a member of the [Science of Science and Computational Discovery Lab](https://scienceofscience.org/) working on the applications of recommendation systems and graph neural networks for assisting scientific discovery. Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Recent graduate of [IIIT Hyderabad](https://iiit.ac.in), with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
+Graduate student at [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science. Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Recent graduate of [IIIT Hyderabad](https://iiit.ac.in), with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
 Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
