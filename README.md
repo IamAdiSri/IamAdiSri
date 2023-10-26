@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Graduate student at [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science. Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Recent graduate of [IIIT Hyderabad](https://iiit.ac.in), with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
+Graduate student at [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science. Summer '23 Intern at [Dropbox](https://www.dropbox.com). Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Also graduated from [IIIT Hyderabad](https://iiit.ac.in) in 2022, with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
 Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
@@ -12,6 +12,8 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
+- Awarded the AI-First prize at the Dropbox Hack Week '23 for building an LLM powered natural language search.
+- Network Automation Engineering Intern @ Dropbox, for Summer '23.
 - Released the [hf-trim](https://github.com/IamAdiSri/hf-trim) Python package. (July 2022)
 - Graduated with a _**BTech (Honors) in Computer Science and an MS (by Research) in Computational Linguistics**_ from _**IIIT Hyderabad**_. 🎉 (July 2022)
 - Published _[TLDR: Transformers for Learning Dictionaries and their Representations](https://aclanthology.org/2022.semeval-1.6/)_ at SemEval Workshop 2022 (July 2022). The system achieved rank 1 on the definition modeling subtask. 🏆 (July 2022)
