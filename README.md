@@ -21,7 +21,6 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 - Shortlisted to attend Google Research Week (February 2022).
 - Joined SentiSum as an NLP and ML engineer. 💼
 - Made the [lori](https://iamadisri.github.io/lori/) website as a joke(?).
-- Authored and submitted a research paper to a conference (under anonymity period).
 - Worked on a platform for AI for medicine in collaboration with Intel Labs.
 - Ranked within the top 10 percentile in Task 9 Sentimix at SemEval 2020. Published the [research paper](https://arxiv.org/abs/2007.12076) at the SemEval Workshop 2020 @ COLING 2020.
 - Secured rank 8 worldwide in the Labor challenge @ AIcrowd.
