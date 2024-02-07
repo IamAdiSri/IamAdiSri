@@ -36,7 +36,7 @@ Feel free to message me on Twitter or LinkedIn (links below), or create an issue
 - [Resume](https://github.com/IamAdiSri/IamAdiSri/blob/main/assets/Resume.pdf)<br>
 - [LinkedIn](https://www.linkedin.com/in/aditya-srivastava-12810a108/)<br>
 - [Twitter](https://www.twitter.com/IamAdiSri)
-- [Email](mailto:aditya.srivastava@research.iiit.ac.in)
+- [Email](mailto:aditya.srivastava@colorado.edu)
 
 <!--
 **IamAdiSri/IamAdiSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
