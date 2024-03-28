@@ -14,7 +14,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 - Presented my work on lookup free unicasting and in-network computation at the IEEE 802 Plenary Session, 2024 held at Denver, CO.
 - Awarded the AI-First prize at the Dropbox Hack Week '23 for building an LLM powered natural language search.
-- Network Automation Engineering Intern @ Dropbox, for Summer '23.
+- DevOps Engineering Intern @ Dropbox, for Summer '23.
 - Released the [hf-trim](https://github.com/IamAdiSri/hf-trim) Python package. (July 2022)
 - Graduated with a _**BTech (Honors) in Computer Science and an MS (by Research) in Computational Linguistics**_ from _**IIIT Hyderabad**_. 🎉 (July 2022)
 - Published _[TLDR: Transformers for Learning Dictionaries and their Representations](https://aclanthology.org/2022.semeval-1.6/)_ at SemEval Workshop 2022 (July 2022). The system achieved rank 1 on the definition modeling subtask. 🏆 (July 2022)
