@@ -12,6 +12,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
+- Presented my work on lookup free unicasting and in-network computation at the IEEE 802 Plenary Session, 2024 held at Denver, CO.
 - Awarded the AI-First prize at the Dropbox Hack Week '23 for building an LLM powered natural language search.
 - Network Automation Engineering Intern @ Dropbox, for Summer '23.
 - Released the [hf-trim](https://github.com/IamAdiSri/hf-trim) Python package. (July 2022)
