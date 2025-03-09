@@ -1,6 +1,6 @@
 # Hi, I'm Aditya 👋
 
-Graduate student at [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science. Summer '23 Intern at [Dropbox](https://www.dropbox.com). Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Also graduated from [IIIT Hyderabad](https://iiit.ac.in) in 2022, with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
+Software Engineer at AWS, working on packaging and security for Amazon Linux. Graduated from [CU Boulder](https://www.colorado.edu), pursuing an MS in Computer Science in Summer '24. Summer '23 Intern at [Dropbox](https://www.dropbox.com). Formerly an engineer at [SentiSum](https://www.sentisum.com/), where I worked on the research and development of NLP and ML solutions. Also graduated from [IIIT Hyderabad](https://iiit.ac.in) in 2022, with a BTech (Honors) in Computer Science and MS (Research) in Computational Linguistics, where I have worked extensively on the application of deep-learning to research problems in low resource Indian languages and code-mixing.
 
 Apart from my professional interests, I enjoy tinkering with small coding and hardware projects, and practice music making as a hobby.
 
@@ -12,6 +12,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
+= Joined AWS on the Amazon Linux team, working on security, packaging and a bunch of cool stuff. (December 2024)
 - Presented my work on lookup free unicasting and in-network computation at the IEEE 802 Plenary Session, 2024 held at Denver, CO.
 - Awarded the AI-First prize at the Dropbox Hack Week '23 for building an LLM powered natural language search.
 - DevOps Engineering Intern @ Dropbox, for Summer '23.
