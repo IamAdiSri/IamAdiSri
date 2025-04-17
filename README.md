@@ -12,7 +12,7 @@ My name is pronounced 'a' as in <ins>A</ins>rgon, 'dit' as in <ins>dit</ins>to a
 
 ## 👨‍💻 What I've Been Up To Recently
 
-= Joined AWS on the Amazon Linux team, working on security, packaging and a bunch of cool stuff. (December 2024)
+- Joined AWS on the Amazon Linux team, working on security, packaging and a bunch of cool stuff. (December 2024)
 - Presented my work on lookup free unicasting and in-network computation at the IEEE 802 Plenary Session, 2024 held at Denver, CO.
 - Awarded the AI-First prize at the Dropbox Hack Week '23 for building an LLM powered natural language search.
 - DevOps Engineering Intern @ Dropbox, for Summer '23.
